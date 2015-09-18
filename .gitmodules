@@ -7,3 +7,6 @@
 [submodule "Equipo6"]
 	path = Equipo6
 	url = https://github.com/elhackaton/Equipo6.git
+[submodule "dignifica.me"]
+	path = dignifica.me
+	url = https://github.com/elhackaton/dignifica.me.git
