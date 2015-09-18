@@ -31,3 +31,6 @@
 [submodule "Equipo3"]
 	path = Equipo3
 	url = https://github.com/elhackaton/Equipo3.git
+[submodule "instaBar"]
+	path = instaBar
+	url = https://github.com/elhackaton/instaBar.git
