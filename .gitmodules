@@ -1,3 +1,6 @@
 [submodule "AppCede"]
 	path = AppCede
 	url = https://github.com/elhackaton/AppCede.git
+[submodule "Equipo11"]
+	path = Equipo11
+	url = https://github.com/elhackaton/Equipo11.git
