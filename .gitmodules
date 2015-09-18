@@ -28,3 +28,6 @@
 [submodule "Equipo4"]
 	path = Equipo4
 	url = https://github.com/elhackaton/Equipo4.git
+[submodule "Equipo3"]
+	path = Equipo3
+	url = https://github.com/elhackaton/Equipo3.git
