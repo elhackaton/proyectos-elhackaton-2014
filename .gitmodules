@@ -1,0 +1,3 @@
+[submodule "AppCede"]
+	path = AppCede
+	url = https://github.com/elhackaton/AppCede.git
