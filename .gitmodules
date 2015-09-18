@@ -25,3 +25,6 @@
 [submodule "be-my-ear"]
 	path = be-my-ear
 	url = https://github.com/elhackaton/be-my-ear.git
+[submodule "Equipo4"]
+	path = Equipo4
+	url = https://github.com/elhackaton/Equipo4.git
