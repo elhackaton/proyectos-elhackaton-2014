@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Carrot</string>
-	<string name="activity_main_button_tutorial">Escanear Producto</string>        
-    <string name="activity_productdata_button_moreinfo">Saber mas</string>	
-</resources>
